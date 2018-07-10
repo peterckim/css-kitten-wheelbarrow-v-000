@@ -18,7 +18,7 @@ img:first-child {
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
-/*__write_selector_here__*/ {
+.kitty-1 {
   position: absolute;
   z-index: 5;
   top: 291px;
